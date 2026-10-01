@@ -1,1 +1,1 @@
-Projeto criado na  ativiade prática de conexão do Github Desktop com o Visual Studio Code.
+Projeto criado na ativiade prática de conexão do Github Desktop com o Visual Studio Code.
